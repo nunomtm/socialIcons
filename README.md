@@ -1,3 +1,4 @@
+<img src="/screenShotSocialIcons.png">
 
 ## Social Icons
 The Social Media app is a quick and fun way to disply social media icons on hover and showing the color of the band.
